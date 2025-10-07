@@ -5,3 +5,13 @@ SELECT
      count(IdCliente),
      count(DtCriacao)
 FROM clientes;
+
+-- SELECT
+--      DISTINCT FlTwitch,FlEmail
+   
+    
+-- FROM clientes ORDER BY QtdePontos DESC;
+
+-- SELECT
+--      count(DISTINCT IdCliente) AS QtdeClientesComPontos   
+-- FROM clientes;
